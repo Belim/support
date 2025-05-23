@@ -19,7 +19,8 @@ body:
       options:
         - label: CrapFixer
         - label: Flyby11
-        - label: AnotherProject
+        - label: Just a Coffee
+        - label: Other 
     validations:
       required: true
 
