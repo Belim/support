@@ -1,5 +1,12 @@
 name: Support Message / Thank You
-description: Leave your name and a short thank you message.
+description: |
+  # Thank You for Your Support!
+
+  Please leave your name and a short message below. Your support is greatly appreciated!
+
+  ---
+
+  Thank you for supporting this project!
 title: "Thank you from [Your Name]"
 labels: support, thank-you
 body:
