@@ -17,9 +17,9 @@ body:
     attributes:
       label: Which projects did you support?
       options:
-        - CrapFixer
-        - Flyby11
-        - Just a Coffee
+        - label: CrapFixer
+        - label: Flyby11
+        - label: AnotherProject
     validations:
       required: true
 
