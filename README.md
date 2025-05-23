@@ -33,7 +33,7 @@ Every contribution helps to:
 
 ## 🙏 Leave a Personal Thank You
 
-After your donation, please feel free to drop your **name** and a short **thank you message** or any kind words in the [Support Messages Issues]([https://github.com/yourusername/yourrepo/issues](https://github.com/Belim/support/issues/new/choose).  
+After your donation, please feel free to drop your **name** and a short **thank you message** or any kind words in the [Support Messages Issues](https://github.com/Belim/support/issues/new/choose).  
 
 Your messages encourage me and the community — and I truly love reading every single one! ❤️
 
