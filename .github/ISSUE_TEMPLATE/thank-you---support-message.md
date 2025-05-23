@@ -2,15 +2,15 @@
 name: Thank You / Support Message
 about: Leave a personal thank you or message to show your support
 title: A Thank You from [YourName/Username]
-labels: ''
-assignees: ''
+labels: Thank you!
+assignees: Belim
 
 ---
 
 # 🙏 Thank You for Supporting!
 
 **Your support means the world to me!**  
-If you'd like, please leave your name and a short message here. It motivates me a lot!
+If you'd like, please leave your name and a short message here. Your support is greatly appreciated!
 
 ---
 
@@ -22,7 +22,7 @@ If you'd like, please leave your name and a short message here. It motivates me 
 
 ---
 
-🌟 Thanks again for supporting this project — it really keeps it going!
+🌟 Thanks again for supporting my projects — it really keeps it going!
 
 ---
 
