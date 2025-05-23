@@ -1,12 +1,5 @@
 name: Support Message / Thank You
-description: |
-  # Thank You for Your Support!
-
-  Please leave your name and a short message below. Your support is greatly appreciated!
-
-  ---
-
-  Thank you for supporting this project!
+description: Leave your name, choose projects you supported, and add a thank you message.
 title: "Thank you from [Your Name]"
 labels: support, thank-you
 body:
@@ -19,11 +12,30 @@ body:
     validations:
       required: true
 
+  - type: checkboxes
+    id: projects
+    attributes:
+      label: Which projects did you support?
+      options:
+        - label: CrapFixer
+          value: CrapFixer
+        - label: Flyby11
+          value: Flyby11
+        - label: Just a Coffee
+          value: Coffee
+    validations:
+      required: true
+
   - type: textarea
     id: message
     attributes:
       label: Message
-      description: Write your thank you message or any personal note.
-      placeholder: Thank you for this project!
+      description: You can edit or add your thank you message below.
+      placeholder: Write your personal thank you message here.
+      default: |
+        I want to thank you for this project **[CrapFixer]**.  
+        Special thanks to **[Flyby11]** or anyone else who supported.
+
+        Feel free to personalize this message!
     validations:
       required: true
