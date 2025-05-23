@@ -17,12 +17,9 @@ body:
     attributes:
       label: Which projects did you support?
       options:
-        - label: CrapFixer
-          value: CrapFixer
-        - label: Flyby11
-          value: Flyby11
-        - label: Just a Coffee
-          value: Coffee
+        - CrapFixer
+        - Flyby11
+        - Just a Coffee
     validations:
       required: true
 
@@ -32,10 +29,5 @@ body:
       label: Message
       description: You can edit or add your thank you message below.
       placeholder: Write your personal thank you message here.
-      default: |
-        I want to thank you for this project **[CrapFixer]**.  
-        Special thanks to **[Flyby11]** or anyone else who supported.
-
-        Feel free to personalize this message!
     validations:
       required: true
