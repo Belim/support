@@ -25,7 +25,7 @@ You can support these projects easily via:
 
 Every contribution helps to:
 
-- Keep **Flyby11** and **CrapFixer** alive and up-to-date  
+- Keep **Flyby11** and **[CrapFixer](https://github.com/builtbybel/CrapFixer/)** alive and up-to-date  
 - Cover infrastructure and testing costs  
 - Fuel long coding nights with motivation and caffeine ☕⚡
 
