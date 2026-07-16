@@ -17,9 +17,9 @@ body:
     attributes:
       label: Which projects did you support?
       options:
-        - label: Winslop
+        - label: FluentCleaner
         - label: Flyoobe
-        - label: Flyby11
+        - label: FluentTweaker
         - label: CrapFixer
         - label: Just a Coffee
         - label: Other 
